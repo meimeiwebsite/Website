@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Trump 2020 - Big Gov Sucks</title>
-    <link rel="stylesheet" href="styles/styles.css">
-    <link rel="stylesheet" href="styles/navbar.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="navbar.css">
 </head>
     <body>
         <header>
