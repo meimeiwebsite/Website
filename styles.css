@@ -1,0 +1,141 @@
+/*  
+ .features {
+    background: white;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .features figure {
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+  }
+  
+  .features figure img {
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: gray 0 0 10px;
+    width: 200px;
+  }
+  .triple {
+    background: blue;
+    color: red;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .triple div {
+    margin: auto;
+    background: gray;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    margin-top: 5px;
+  }
+  .four {
+    background: red;
+    color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .four div {
+    margin: auto;
+    padding: 5px;
+    height:200px;
+    background: gray;
+    text-align: center;
+    text-transform: uppercase;
+    width: 200px;
+    margin-top: 5px;
+  }
+*/
+  
+  .logo{
+    padding:1%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 200%;
+  }
+
+  .search{
+    margin: auto;
+    border: 2px dotted solid;
+    padding-bottom: 2%;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+  }
+
+  input{
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 50%;
+    height: 30px; 
+    color:black; 
+    background-color: white;
+    max-width: 500px;
+    padding-left: 15px;
+  }
+  section{
+    background-color: black;
+    padding: 1px;
+    padding-left: 3%;
+  }
+  #Bookmarks{
+    color: darkgray;
+    font-size: larger;
+    font-weight: bold;
+  }
+
+  .indent{
+    color: darkgray;
+    font-weight: normal;
+    padding-left: 20px;
+    font-size: 15px;
+  }
+
+ .indent a{
+    color: darkgray;
+    line-height: 1.4;
+    text-decoration: none;
+  }
+
+  body{
+    background-color: black;
+  }
+
+  /*
+  -----------------------------------------
+  FOOTER
+  -----------------------------------------
+  */
+  footer{
+    background: black;
+    color: gray;
+    font-size: 12px;
+    padding: 20px 20px;
+    text-align: center;
+    padding-bottom: 100%;
+ }
+
+
+ /*
+ -----------------------------------------
+ SIZE OPTIMIZATION
+ -----------------------------------------
+ */
+  
+
