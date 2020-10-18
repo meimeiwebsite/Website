@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Trump 2020 - Big Gov Sucks</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/navbar.css">
+</head>
+    <body>
+        <header>
+            <div id="navbar" class="sticky">
+                <div id="navbar-right">
+                    <a href="javascript:void(0)"></a>
+                </div>
+                <a class="active" href="index.html">Home</a> 
+                <a href="DuckDuckGoDark.html">DuckDuckGo</a>
+                    <a href="Lightmode.html">Light Mode</a> 
+            </div>
+            <div id="wannabe">
+            
+            </div>
+        </header>
+
+        <div class="logo">
+            <h1>
+                Startseite
+            </h1>
+        </div>
+        
+        <div class="search">
+            <form method="get" action="http://www.google.com/search">
+                <input name="q" type="text" maxlength="2048" value="Google site search" onfocus="if(this.value==this.defaultValue)this.value=''; this.style.color='black';" onblur="if(this.value=='')this.value=this.defaultValue; "/>
+            </form>
+        </div>
+        
+        <section class="Bookmarks">
+            <h2 id="Bookmarks">
+                Bookmarks:
+            </h2>
+            <div class="indent">
+                <h3>
+                    White Supremacy:
+                </h3>
+                <ul>
+                    <li>
+                        <a href="">KKK <br></a>
+                    </li>
+                    <li>
+                        <a href="">Black Crime statistics <br></a>
+                    </li>
+                    <li>
+                        <a href="">Average Black iq compared to Whites and Asians <br> </a>
+                    </li>
+                    <li>
+                        <a href="">Gun Crimes by race <br> </a>
+                    </li>
+
+                </ul>
+            </div>
+
+
+        </section>
+        <footer>
+                Hi
+        </footer>
+        <script src="scripts/main.js"></script>
+    </body>
+</html>
