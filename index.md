@@ -14,9 +14,8 @@
                 <div id="navbar-right">
                     <a href="javascript:void(0)"></a>
                 </div>
-                <a class="active" href="index.html">Home</a> 
-                <a href="DuckDuckGoDark.html">DuckDuckGo</a>
-                    <a href="Lightmode.html">Light Mode</a> 
+                <a class="active" href="DuckDuckGoDark.html">DuckDuckGo</a> 
+                <a href="Lightmode.html">Light Mode</a> 
             </div>
             <div id="wannabe">
             
